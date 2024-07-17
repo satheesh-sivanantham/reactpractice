@@ -1,0 +1,63 @@
+.main-container{
+    background: #fff;
+    border-radius: 10px;
+    height: 39rem;
+    width: 22rem;
+    margin-left: 10rem;
+    position: relative;
+    top: 10rem;
+    padding: 20px;
+}
+.header{
+    text-align: center;
+}
+.plan{
+    font-weight: 600;
+    font-size: large;
+    color: #b1adad;
+}
+.subscribe-price{
+    font-size: 2.3rem;
+    font-weight: 500;
+    padding: 7px 0px 17px 0px;
+    border-bottom: 1px solid #ccc;
+}
+.price-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.plan-items{
+    padding: 10px;
+    position: relative;
+    top: 20px;
+    color: #000;
+    font-weight: 500;
+}
+.tick-icon{
+    fill: black;
+    width: 21px;
+    height: 22px;
+    position: relative;
+    top: 7px;
+}
+.cross-icon{
+    fill: #ccc;
+    width: 20px;
+    height: 16px;
+    position: relative;
+    top: 4px;
+}
+.submit-button{
+    background-color: #1313d7;
+    border: none;
+    color: white;
+    padding: 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    width: 100%;
+    border-radius: 40px;
+    letter-spacing: 1px;
+}
